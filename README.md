@@ -5,30 +5,30 @@
 
 <br>
 
-[
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20Now-1D9E75?style=for-the-badge)](https://chanakyasreeharshag.github.io)
 &nbsp;
-[
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2D9E3A?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/chanakyasreeharsha)
 
 </div>
 
-***
+---
 
 ### 👨‍💻 About Me
 
-- 📊 Aspiring **Data Analyst** passionate about turning raw data into clear, actionable insights
-- 🛠️ Building end-to-end analytics pipelines — from data wrangling to storytelling
-- 📍 Based in **Hyderabad, India**
+- 📊 Aspiring **Data Analyst** passionate about turning raw data into clear, actionable insights  
+- 🛠️ Building end-to-end analytics pipelines — from data wrangling to storytelling  
+- 📍 Based in **Hyderabad, India**  
 
-***
+---
 
 ### 🚀 Featured Projects
 
 | Project | Description |
-|---|---|
+|--------|-------------|
 | 🔄 **Customer Churn Prediction** | End-to-end ML pipeline to predict customer churn |
 | 🗄️ **SQL Data Warehouse** | Scalable data warehouse design and implementation |
 
-***
+---
 
 ### 🛠️ Skills
 
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35"/>
 </p>
 
-***
+---
 
 ### 📬 Let's Connect
 
