@@ -5,7 +5,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20Now-1D9E75?style=for-the-badge)](https://chanakyasreeharshag.github.io)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20Now-1D9E75?style=for-the-badge)]((https://chanakyasreeharsha.vercel.app/))
 &nbsp;
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2D9E3A?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/chanakyasreeharsha)
 
