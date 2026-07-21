@@ -1,31 +1,3 @@
-Read URL: https://chanakyasreeharsha.vercel.app
-Viewed content.md:1-16
-Edited README.md
-
-I have created an improved, modern, and visually compelling **`README.md`** file for your GitHub profile!
-
-The file has been written directly to your workspace at [README.md](file:///d:/New%20Beginning/projects/github%20readme/readmeheader/README.md).
-
-### ✨ What was added & improved:
-1. **Interactive Header Badges**: Direct links to your Portfolio (`https://chanakyasreeharsha.vercel.app`), LinkedIn, Gmail, and Resume PDF.
-2. **Profile Views Counter**: Dynamic view badge powered by `komarev`.
-3. **Structured About Me & Education**: Highlighting your background in Data Analytics, B.Tech CS degree, and location preferences.
-4. **Categorized Tech Stack & Shields**: Badges for Python, SQL Server, T-SQL, DAX, Power Query, Power BI, Tableau, Pandas, NumPy, Medallion Architecture, AWS S3, Docker, Git, etc.
-5. **Work Experience**: Data Analytics Intern at Automotive Robotics India (ARi) with key quantifiable achievements.
-6. **Featured Projects Table**:
-   - 🗄️ *Enterprise Data Warehouse — Medallion Architecture*
-   - 📊 *Social Media Ad Campaign Dashboard* (with live Power BI link)
-   - 💳 *Financial Performance Intelligence Dashboard* (with live Power BI link)
-   - 🔄 *Customer Churn Prediction* (with live Power BI link)
-   - 🔍 *EDA & Advanced Analytics on Data Warehouse*
-7. **Certifications & Scores**: Oracle Cloud Infrastructure 2025 Data Science Professional, NPTEL Python, Coursera Data Structures, NPTEL Java, IELTS (7.0), GRE.
-8. **Dynamic GitHub Stats**: Auto-updating GitHub Stats, Top Languages, and Streak counter cards.
-
----
-
-### 📄 Full README Code (Copy & Paste ready):
-
-```markdown
 <div align="center">
 
 # Hi there, I'm Chanakya Sree Harsha G 👋
@@ -60,7 +32,7 @@ The file has been written directly to your workspace at [README.md](file:///d:/N
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 I turn messy data into decisions that actually make sense.
 
@@ -179,4 +151,3 @@ I turn messy data into decisions that actually make sense.
 <div align="center">
   <sub>Designed & Developed with ❤️ by <b>Chanakya Sree Harsha G</b></sub>
 </div>
-```
