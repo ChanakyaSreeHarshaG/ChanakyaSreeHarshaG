@@ -5,7 +5,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20Now-1D9E75?style=for-the-badge)]((chanakyasreeharsha.vercel.app))
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-Visit%20Now-1D9E75?style=for-the-badge)](chanakyasreeharsha.vercel.app)
 &nbsp;
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2D9E3A?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/chanakyasreeharsha)
 
@@ -45,7 +45,7 @@
 ### 📬 Let's Connect
 
 <p align="left">
-  <a href="(chanakyasreeharsha.vercel.app)">
+  <a href="chanakyasreeharsha.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=githubpages&logoColor=white" height="35"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/chanakyasreeharsha">
